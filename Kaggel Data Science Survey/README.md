@@ -1,0 +1,1 @@
+Acting as a data analyst for Kaggle. Kaggle surveyed a large population of data scientists and asked them about their current career status and the various skills they use. Our goal is to analyze this dataset and learn what skills are necessary for becoming a solid data scientist.
